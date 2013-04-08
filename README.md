@@ -7,4 +7,4 @@ Multext-East Serbian data set of upos repository
 - srm.tok.gz  Test file consists of 6677 sentences 108809
 - srm.tok.gz  Gold tags
 
-Total Size: 78M
+Total Size: 39M
